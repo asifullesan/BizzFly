@@ -1,0 +1,2114 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home-header-banner {
+    background-image: url('./Image/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 5.5rem;
+    border-radius: 0px 0px 110px 0px;
+}
+
+
+.b-tag {
+    margin-top: -8px;
+}
+
+.nav-option {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-left: 1rem;
+}
+
+
+
+.banner-contant {
+    margin-top: 26rem;
+}
+
+
+.h-h1 {
+    font-size: 2.4rem;
+    color: #3B4FE4;
+    background-color: #ffff;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 0.4rem;
+    padding: 5px 0px 7px 0px;
+    text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.53);
+}
+
+.h-h2 {
+    font-size: 2.4rem;
+    color: #ffff;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 0.4rem;
+    padding: 5px 0px 7px 0px;
+    text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.53);
+}
+
+.h-p {
+    color: #ffff;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.h-btn {
+    background-color: #3B4FE4;
+    color: #ffff;
+    font-weight: 600;
+    border: none;
+    padding: 13px 25px 13px 25px;
+    border-radius: 5px;
+    text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.53);
+}
+
+
+
+
+
+
+
+.main-business {
+    background-image: url('./Image/Vector\ 4.png');
+    background-repeat: no-repeat;
+    background-position: 50% 220px;
+    background-size: 90%;
+    margin-top: 5rem;
+    padding-bottom: 6rem;
+}
+
+.b-header {
+    text-align: center;
+}
+
+.b-h3 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #3B4FE4;
+}
+
+.b-h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 1.5rem;
+}
+
+
+.card {
+    box-shadow: 2px 2px 25px -9px rgba(0, 0, 0, 0.25);
+    padding: 30px;
+    border-radius: 5px;
+    border: none;
+}
+
+.c-icon {
+    height: 45px;
+    width: 45px;
+}
+
+.c-p {
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+.blue-bg {
+    background-image: url('./Image/blue\ bac\ 01.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    height: 400px;
+    margin-top: 10rem;
+}
+
+.img-1 {
+    height: 500px;
+    margin-left: 120px;
+}
+
+.img-2 {
+    height: 500px;
+    margin-top: -710px;
+}
+
+.blue-info {
+    margin-top: 6rem;
+}
+
+.b-p1 {
+    color: #fff;
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 45px;
+}
+
+.b-p2 {
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+.how-works {
+    margin-top: 11rem;
+}
+
+.a-card-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 1.7rem;
+    grid-row-gap: 3rem;
+}
+
+.a-card {
+    text-align: center;
+    box-shadow: 2px 2px 25px -9px rgba(0, 0, 0, 0.25);
+    padding: 40px;
+    border-radius: 5px;
+    border: none;
+}
+
+.c-p-2 {
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+.pricing {
+    margin-top: 6rem;
+}
+
+.price-info {
+    margin-top: 8rem;
+}
+
+.pri-p {
+    color: #3B4FE4;
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+
+.pri-p2 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.pri-p3 {
+    font-weight: 700;
+    padding-right: 30px;
+}
+
+.pri-img {
+    height: 600px;
+    width: 550px;
+    margin-left: 3.8rem;
+}
+
+.pri-icon {
+    height: 35px;
+}
+
+
+
+
+
+.advantage {
+    margin-top: 6rem;
+}
+
+.adv-img {
+    height: 600px;
+    width: 550px;
+    margin-top: 3rem;
+}
+
+.adv-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 1.7rem;
+    grid-row-gap: 1.7rem;
+}
+
+.adv-p {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.adv-icon {
+    height: 35px;
+    width: 35px;
+}
+
+
+
+.bg {
+    background-image: url('./Image/Vector\ 5.png');
+    background-repeat: no-repeat;
+    background-position: 50% -150px;
+    background-size: 90%;
+}
+
+
+
+
+.bizfly-service {
+    margin-top: 7rem;
+
+}
+
+.biz-h2 {
+    font-weight: 700;
+}
+
+.biz-icon {
+    height: 60px;
+}
+
+.clint-text {
+    font-weight: 700;
+    margin-top: 2.5rem;
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.our-team {
+    margin-top: 7rem;
+}
+
+
+.ot-hrader {
+    text-align: center;
+}
+
+.ot-h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 1.7rem;
+    grid-row-gap: 1.7rem;
+}
+
+.team-image {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-left: 18%;
+}
+
+.team-iteam {
+    height: 400px;
+    text-align: center;
+    padding: 3rem;
+}
+
+.t-img {
+    width: 100%;
+}
+
+.t-info {
+    border-bottom: 2px solid black;
+}
+
+.t-info h3 {
+    font-weight: 700;
+    margin-top: 1rem;
+}
+
+.t-info p {
+    font-weight: 700;
+    margin-top: -10px;
+}
+
+.t-s-icon {
+    height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+    background: #282C4E;
+    padding-top: 5rem;
+    margin-top: 0rem;
+
+}
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 1.5rem;
+}
+
+
+.footer-info-1 h1 {
+    color: #ffff;
+}
+
+.footer-info-1 h2 {
+    color: #ffff;
+}
+
+.footer-info-1 p {
+    color: #ffff;
+    margin-top: -8px;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.f-p2 {
+    color: rgba(255, 255, 255, 0.65);
+    margin-top: -8px;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.fp {
+    margin-top: -15px;
+}
+
+.footer-link a {
+    text-decoration: none;
+
+}
+
+.social-m-icon {
+    height: 40px;
+    width: 40px;
+}
+
+.footer-copyright {
+    height: 70px;
+    border-top: 2px solid #ffff;
+}
+
+
+.cr-text {
+    color: rgba(255, 255, 255, 0.65);
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+
+
+
+
+/* Home Media quire ////////////////////////////////////// */
+
+
+/* For phone ///////////////////////////////////////////////////////// */
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
+    .banner-contant {
+        margin-top: 12rem !important;
+    }
+
+    .h-h1 {
+        font-size: 1.7rem;
+    }
+
+    .h-h2 {
+        font-size: 2rem;
+    }
+
+    .h-p {
+        font-size: 0.9rem;
+    }
+
+    .h-btn {
+        padding: 8px 20px 8px 20px;
+        font-size: 13px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .b-h3 {
+        font-size: 1rem;
+    }
+
+    .b-h1 {
+        font-size: 1.8rem;
+    }
+
+    .card-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-column-gap: 2rem;
+        grid-row-gap: 2rem;
+    }
+
+    .c-icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .c-p {
+        font-size: 1rem;
+    }
+
+
+
+
+
+
+
+
+
+
+    .blue-bg {
+        background-image: url('./Image/blue\ bac\ 01.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 400px;
+        margin-top: 10rem;
+        height: 500px;
+    }
+
+    .img-1 {
+        height: 250px;
+        margin-left: 30%;
+    }
+
+    .img-2 {
+        height: 250px;
+        margin-top: -100%;
+        margin-left: 10%;
+    }
+
+    .blue-info {
+        margin-top: 2rem;
+        text-align: center;
+    }
+
+    .b-p1 {
+        color: #fff;
+        font-size: 1.8rem;
+        font-weight: 700;
+        line-height: 35px;
+    }
+
+    .b-p2 {
+        color: #fff;
+        font-size: 0.7rem;
+        font-weight: 600;
+    }
+
+
+
+
+
+
+
+
+    .how-works {
+        margin-top: 5rem;
+    }
+
+    .a-card-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-column-gap: 1.7rem;
+        grid-row-gap: 2rem;
+    }
+
+
+
+
+    .pricing {
+        margin-top: 1rem;
+    }
+
+    .price-info {
+        margin-top: 5rem;
+    }
+
+    .pri-p {
+        font-size: 1.2rem;
+    }
+
+    .pri-p2 {
+        font-size: 1.6rem;
+        font-weight: 700;
+    }
+
+    .media-p {
+        font-size: 0.9rem;
+        line-height: 15px;
+        margin-top: 0px !important;
+    }
+
+    .pri-img {
+        height: 100%;
+        width: 100%;
+        margin-left: 0rem;
+        margin-top: 10px;
+    }
+
+    .pri-icon {
+        height: 30px;
+    }
+
+
+
+
+
+
+
+
+
+    .advantage {
+        margin-top: 3rem;
+    }
+
+    .adv-img {
+        height: 100%;
+        width: 100%;
+        margin-top: 0rem;
+    }
+
+    .adv-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-column-gap: 1.7rem;
+        grid-row-gap: 1.7rem;
+    }
+
+    .adv-p {
+        font-size: 1.1rem;
+        font-weight: 700;
+    }
+
+    .adv-icon {
+        height: 35px;
+        width: 35px;
+    }
+
+
+
+    .bg {
+        background-image: none
+    }
+
+
+
+
+
+
+
+
+
+
+    .bizfly-service {
+        margin-top: 5rem;
+
+    }
+
+    .biz-icon {
+        height: 40px;
+    }
+
+    .clint-text {
+        font-weight: 700;
+        margin-top: 2.5rem;
+        font-size: 1rem;
+        text-align: center;
+    }
+
+
+
+
+
+
+
+
+
+
+    .our-team {
+        margin-top: 5rem;
+    }
+
+
+    .ot-h1 {
+        font-size: 2rem;
+        font-weight: 700;
+    }
+
+    .team-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-column-gap: 1.7rem;
+        grid-row-gap: 1.5rem;
+    }
+
+    .team-image {
+        border-radius: 50%;
+        height: 100px;
+        width: 100px;
+        margin-left: 30%;
+    }
+
+    .team-iteam {
+        height: 400px;
+        text-align: center;
+        padding: 3rem;
+    }
+
+
+    .t-info {
+        border-bottom: 2px solid black;
+    }
+
+    .t-info h3 {
+        font-weight: 700;
+        margin-top: 1rem;
+    }
+
+    .t-info p {
+        font-weight: 700;
+        margin-top: -10px;
+    }
+
+    .t-s-icon {
+        height: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .footer {
+        background: #282C4E;
+        padding-top: 5rem;
+        margin-top: 0rem;
+
+    }
+
+    .footer-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-column-gap: 1.5rem;
+    }
+
+
+    .footer-info-1 h1 {
+        color: #ffff;
+    }
+
+    .footer-info-1 h2 {
+        color: #ffff;
+    }
+
+    .footer-info-1 p {
+        color: #ffff;
+        margin-top: -8px;
+        font-weight: 600;
+        font-size: 1.1rem;
+    }
+
+    .f-p2 {
+        color: rgba(255, 255, 255, 0.65);
+        margin-top: -8px;
+        font-weight: 600;
+        font-size: 0.9rem;
+    }
+
+    .fp {
+        margin-top: -15px;
+    }
+
+    .media-part {
+        margin-top: 20px;
+    }
+
+    .footer-link a {
+        text-decoration: none;
+
+    }
+
+    .social-m-icon {
+        height: 32px;
+        width: 32px;
+    }
+
+    .footer-copyright {
+        height: 60px;
+        border-top: 2px solid #ffff;
+    }
+
+
+    .cr-text {
+        color: rgba(255, 255, 255, 0.65);
+        font-weight: 600;
+        margin-top: 15px;
+        font-size: 0.8rem;
+    }
+
+}
+
+
+
+
+/* For tablets/////////////////////////////////////////////////////////////////////////////////////////// */
+
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+
+    .none {
+        display: none;
+    }
+
+    .media-sp {
+        width: 80%;
+        margin: auto;
+    }
+
+    .banner-contant {
+        margin-top: 10rem !important;
+    }
+
+    .h-h1 {
+        font-size: 2.1rem;
+        width: 100%;
+    }
+
+    .h-h2 {
+        font-size: 2.1rem;
+    }
+
+    .h-p {
+        font-size: 1.1rem;
+    }
+
+    .h-btn {
+        padding: 10px 22px 10px 22px;
+        font-size: 13px;
+    }
+
+
+
+
+
+
+
+
+
+
+    .main-business {
+        background-image: url('./Image/Vector\ 4.png');
+        background-repeat: no-repeat;
+        background-position: 50% 220px;
+        background-size: 90%;
+        margin-top: 5rem;
+        padding-bottom: 6rem;
+    }
+
+    .b-header {
+        text-align: center;
+    }
+
+    .b-h3 {
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: #3B4FE4;
+    }
+
+    .b-h1 {
+        font-size: 2rem;
+        font-weight: 700;
+    }
+
+
+
+    .card-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 1.5rem;
+        grid-row-gap: 1.5rem;
+    }
+
+
+    .card {
+        box-shadow: 2px 2px 25px -9px rgba(0, 0, 0, 0.25);
+        padding: 30px;
+        border-radius: 5px;
+        border: none;
+    }
+
+    .c-icon {
+        height: 45px;
+        width: 45px;
+    }
+
+    .c-p {
+        font-size: 1.1rem;
+        font-weight: 700;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    .blue-bg {
+        background-image: url('./Image/blue\ bac\ 01.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 400px;
+        margin-top: 7rem;
+    }
+
+    .img-1 {
+        height: 300px;
+        margin-left: 100px;
+    }
+
+    .img-2 {
+        height: 300px;
+        margin-top: -430px;
+    }
+
+    .blue-info {
+        margin-top: 3rem;
+    }
+
+    .b-p1 {
+        color: #fff;
+        font-size: 2.2rem;
+        font-weight: 700;
+        line-height: 45px;
+    }
+
+    .b-p2 {
+        color: #fff;
+        font-size: 1rem;
+        font-weight: 600;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .how-works {
+        margin-top: 6rem;
+    }
+
+    .a-card-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 1.7rem;
+        grid-row-gap: 1.7rem;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .pricing {
+        margin-top: 6rem;
+    }
+
+    .price-info {
+        margin-top: 3rem;
+    }
+
+    .pri-p {
+        color: #3B4FE4;
+        font-weight: 700;
+        font-size: 1.6rem;
+    }
+
+    .pri-p2 {
+        font-size: 2rem;
+        font-weight: 700;
+    }
+
+    .pri-p3 {
+        font-weight: 700;
+        padding-right: 30px;
+    }
+
+    .pri-img {
+        height: 450px;
+        width: 370px;
+        margin-left: 0rem;
+    }
+
+    .pri-icon {
+        height: 35px;
+    }
+
+
+
+
+
+    .advantage {
+        margin-top: 6rem;
+    }
+
+    .adv-img {
+        height: 450px;
+        width: 370px;
+        margin-top: 1rem;
+    }
+
+    .adv-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-column-gap: 1.7rem;
+        grid-row-gap: 1.7rem;
+    }
+
+    .adv-p {
+        font-size: 1.2rem;
+        font-weight: 700;
+    }
+
+    .adv-icon {
+        height: 35px;
+        width: 35px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .our-team {
+        margin-top: 4rem;
+    }
+
+
+    .ot-h1 {
+        font-size: 2.5rem;
+        font-weight: 700;
+    }
+
+    .team-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 1.7rem;
+        grid-row-gap: 0rem;
+    }
+
+    .team-image {
+        border-radius: 50%;
+        height: 130px;
+        width: 130px;
+        margin-left: 20%;
+    }
+
+    .team-iteam {
+        height: 400px;
+        text-align: center;
+        padding: 3rem;
+    }
+
+    .t-img {
+        width: 100%;
+    }
+
+    .t-info {
+        border-bottom: 2px solid black;
+    }
+
+    .t-info h3 {
+        font-weight: 700;
+        margin-top: 1rem;
+    }
+
+    .t-info p {
+        font-weight: 700;
+        margin-top: -10px;
+    }
+
+    .t-ico {
+        margin-left: -20px !important;
+    }
+
+    .t-s-icon {
+        height: 40px;
+    }
+}
+
+
+
+
+
+
+
+
+/* For small screen laptop///////////////////////////////////////////////////////////////////////// */
+@media only screen and (min-width: 789px) and (max-width: 1024px) {
+
+    .none {
+        display: none;
+    }
+
+    .media-sp {
+        width: 80%;
+        margin: auto;
+    }
+
+
+    .banner-contant {
+        margin-top: 12rem;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .blue-bg {
+        background-image: url('./Image/blue\ bac\ 01.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 400px;
+        margin-top: 10rem;
+    }
+
+    .img-1 {
+        height: 350px;
+        margin-left: 70px;
+    }
+
+    .img-2 {
+        height: 350px;
+        margin-top: -510px;
+    }
+
+    .blue-info {
+        margin-top: 4rem;
+    }
+
+
+
+
+
+
+
+
+
+
+    .how-works {
+        margin-top: 6rem;
+    }
+
+
+
+
+
+
+
+    .pricing {
+        margin-top: 6rem;
+    }
+
+    .price-info {
+        margin-top: 4rem;
+    }
+
+    .pri-p3 {
+        font-weight: 700;
+        padding-right: 30px;
+    }
+
+    .pri-img {
+        height: 400px;
+        width: 350px;
+        margin-left: 0rem;
+    }
+
+
+
+
+
+
+
+    .advantage {
+        margin-top: 6rem;
+    }
+
+    .adv-img {
+        height: 400px;
+        width: 350px;
+        margin-top: 3rem;
+    }
+
+
+
+
+
+
+
+
+
+    .our-team {
+        margin-top: 5rem;
+    }
+
+
+    .ot-hrader {
+        text-align: center;
+    }
+
+    .ot-h1 {
+        font-size: 2.5rem;
+        font-weight: 700;
+    }
+
+    .team-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-column-gap: 1.7rem;
+        grid-row-gap: 1.7rem;
+    }
+
+    .team-image {
+        border-radius: 50%;
+        height: 140px;
+        width: 140px;
+        margin-left: 0%;
+    }
+
+    .team-iteam {
+        height: 400px;
+        text-align: center;
+        padding: 2rem;
+    }
+
+    .t-ico {
+        margin-left: -80px;
+    }
+
+}
+
+
+
+
+
+
+
+
+/* Desktop large screen///////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+
+    .media-sp {
+        width: 60%;
+        margin-left: 40%;
+    }
+
+    .banner-contant {
+        margin-top: 17rem;
+    }
+
+
+
+
+
+
+
+
+
+
+    .blue-bg {
+        background-image: url('./Image/blue\ bac\ 01.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 400px;
+        margin-top: 10rem;
+    }
+
+    .img-1 {
+        height: 400px;
+        margin-left: 120px;
+    }
+
+    .img-2 {
+        height: 400px;
+        margin-top: -610px;
+    }
+
+    .blue-info {
+        margin-top: 5rem;
+    }
+
+
+
+
+
+
+
+
+    .pricing {
+        margin-top: 6rem;
+    }
+
+    .price-info {
+        margin-top: 4rem;
+    }
+
+    .pri-p3 {
+        font-weight: 700;
+        padding-right: 30px;
+    }
+
+    .pri-img {
+        height: 500px;
+        width: 450px;
+        margin-left: 1rem;
+    }
+
+
+
+
+
+
+
+
+
+    .advantage {
+        margin-top: 6rem;
+    }
+
+    .adv-img {
+        height: 500px;
+        width: 450px;
+        margin-top: 3rem;
+    }
+
+
+
+
+
+
+
+
+
+
+    .our-team {
+        margin-top: 7rem;
+    }
+
+
+    .ot-hrader {
+        text-align: center;
+    }
+
+    .ot-h1 {
+        font-size: 2.5rem;
+        font-weight: 700;
+    }
+
+    .team-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-column-gap: 1.7rem;
+        grid-row-gap: 1.7rem;
+    }
+
+    .team-image {
+        border-radius: 50%;
+        height: 160px;
+        width: 160px;
+        margin-left: 16%;
+    }
+
+    .team-iteam {
+        height: 400px;
+        text-align: center;
+        padding: 3rem;
+    }
+
+    .t-ico {
+        margin-left: -50px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* package page ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.package-header-banner {
+    background-image: url('./Image/Pacl-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 5.5rem;
+    border-radius: 0px 0px 110px 0px;
+}
+
+
+.b-tag {
+    margin-top: -8px;
+}
+
+.nav-option {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-left: 1rem;
+}
+
+.p-header-info {
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 700;
+    color: #ffff;
+}
+
+
+
+
+
+
+
+
+.chose-header {
+    text-align: center;
+    margin-top: 6rem;
+}
+
+.cho-h1 {
+    font-weight: 700;
+}
+
+.cho-p {
+    font-weight: 700;
+}
+
+
+
+
+
+.account-package {
+    margin-top: 5rem;
+}
+
+.pack-s-img {
+    width: 500px;
+}
+
+.p-info-h h1 {
+    font-weight: 700;
+}
+
+.p-info-h p {
+    font-weight: 700;
+    color: #7C7C7C;
+}
+
+.ico-icon {
+    height: 20px;
+    width: 20px;
+}
+
+.pric p {
+    font-weight: 600 !important;
+    font-size: 1.5rem;
+    margin-top: -12px;
+    color: #7C7C7C;
+}
+
+.pack-text p {
+    font-weight: 700;
+    color: #7C7C7C;
+    line-height: 12px;
+}
+
+
+
+
+
+.stripe-package {
+    margin-top: 7rem;
+}
+
+.llc-package {
+    margin-top: 7rem;
+}
+
+
+
+
+.bg-2 {
+    background-image: url('./Image/Vector\ 5.png');
+    background-repeat: no-repeat;
+    background-position: 50% -250px;
+    background-size: 90%;
+}
+
+
+
+
+.acc {
+    padding: 10px;
+}
+
+.faq {
+    margin-top: 6rem;
+    margin-bottom: 5rem;
+}
+
+.accordion-item {
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.accordion-header {
+    /* margin-top: 10px; */
+    border-radius: 10px;
+    background-color: #D9D9D9 !important;
+}
+
+.accordion-button {
+    background-color: #D9D9D9 !important;
+    border-radius: 10px;
+    height: 40px;
+}
+
+.quis {
+    margin-top: 4rem;
+}
+
+.quis h1 {
+    font-weight: 700;
+    margin-left: 2rem;
+}
+
+
+
+.pakage-blu {
+    margin-bottom: 9rem;
+}
+
+
+
+
+
+
+
+
+
+/* package page media quire////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+/* For mobile/////////////////////////////////////////////////////////////////////////////////////////////////// */
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
+
+
+
+
+    .package-header-banner {
+        background-image: url('./Image/Pacl-bg.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding-bottom: 2rem;
+        border-radius: 0px 0px 50px 0px;
+    }
+
+
+    .p-header-info {
+        text-align: center;
+        font-size: 2rem;
+        font-weight: 700;
+        color: #ffff;
+    }
+
+
+
+
+
+
+
+
+
+
+    .account-package {
+        margin-top: 3rem;
+    }
+
+    .pack-s-img {
+        width: 100%;
+    }
+
+    .p-info-h h1 {
+        font-weight: 700;
+        margin-top: 2rem;
+    }
+
+    .p-info-h p {
+        font-weight: 700;
+        color: #7C7C7C;
+        font-size: 0.9rem;
+    }
+
+    .ico-icon {
+        height: 12px;
+        width: 12px;
+    }
+
+    .pric p {
+        font-weight: 600 !important;
+        font-size: 1.2rem;
+        margin-top: -12px;
+        color: #7C7C7C;
+    }
+
+    .pack-text p {
+        font-weight: 700;
+        color: #7C7C7C;
+        line-height: 12px;
+        font-size: 0.9rem;
+        margin-left: -5px !important;
+    }
+
+
+
+
+
+    .stripe-package {
+        margin-top: 3rem;
+    }
+
+    .pak-st-i {
+        margin-left: 0px !important;
+    }
+
+    .stp-img {
+        margin-left: 0px !important;
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+    .llc-package {
+        margin-top: 3rem;
+    }
+
+
+
+
+
+
+
+
+    .faq {
+        margin-top: 3rem;
+        margin-bottom: 5rem;
+    }
+
+}
+
+
+
+
+
+
+/* For tablets/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+
+
+
+    .package-header-banner {
+        background-image: url('./Image/Pacl-bg.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding-bottom: 2rem;
+        border-radius: 0px 0px 90px 0px;
+    }
+
+
+    .p-header-info {
+        text-align: center;
+        font-size: 3rem;
+        font-weight: 700;
+        color: #ffff;
+    }
+
+
+
+
+
+
+
+
+
+
+    .account-package {
+        margin-top: 3rem;
+    }
+
+    .pack-s-img {
+        width: 100%;
+        margin-top: 4rem;
+    }
+
+    .p-info-h h1 {
+        font-weight: 700;
+        margin-top: 1.9rem;
+    }
+
+    .p-info-h p {
+        font-weight: 700;
+        color: #7C7C7C;
+        font-size: 0.9rem;
+    }
+
+    .ico-icon {
+        height: 14px;
+        width: 14px;
+    }
+
+    .pric p {
+        font-weight: 600 !important;
+        font-size: 1.3rem;
+        margin-top: -12px;
+        color: #7C7C7C;
+    }
+
+    .pack-text p {
+        font-weight: 700;
+        color: #7C7C7C;
+        line-height: 12px;
+        font-size: 0.9rem;
+        margin-left: -5px !important;
+    }
+
+
+
+
+
+    .stripe-package {
+        margin-top: 3rem;
+    }
+
+    .pak-st-i {
+        margin-left: 0px !important;
+    }
+
+    .stp-img {
+        margin-left: 0px !important;
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+    .llc-package {
+        margin-top: 3rem;
+    }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/* For small screen laptop///////////////////////////////////////////////////////////////////////// */
+@media only screen and (min-width: 789px) and (max-width: 1024px) {
+
+
+
+    .package-header-banner {
+        background-image: url('./Image/Pacl-bg.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding-bottom: 2rem;
+        border-radius: 0px 0px 100px 0px;
+    }
+
+
+    .p-header-info {
+        text-align: center;
+        font-size: 3.5rem;
+        font-weight: 700;
+        color: #ffff;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .account-package {
+        margin-top: 3rem;
+    }
+
+    .pack-s-img {
+        width: 100%;
+        margin-top: 4rem;
+    }
+
+    .p-info-h h1 {
+        font-weight: 700;
+        margin-top: 1.9rem;
+    }
+
+    .p-info-h p {
+        font-weight: 700;
+        color: #7C7C7C;
+        font-size: 0.9rem;
+    }
+
+    .ico-icon {
+        height: 14px;
+        width: 14px;
+    }
+
+    .pric p {
+        font-weight: 600 !important;
+        font-size: 1.3rem;
+        margin-top: -12px;
+        color: #7C7C7C;
+    }
+
+    .pack-text p {
+        font-weight: 700;
+        color: #7C7C7C;
+        line-height: 12px;
+        font-size: 0.9rem;
+        margin-left: -5px !important;
+    }
+
+
+
+
+
+    .stripe-package {
+        margin-top: 3rem;
+    }
+
+    .pak-st-i {
+        margin-left: 0px !important;
+    }
+
+    .stp-img {
+        margin-left: 0px !important;
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+    .llc-package {
+        margin-top: 3rem;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/* contact page   ///////////////////////////////////////////////////////////////////////////////// */
+
+.c-card-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 4rem;
+    grid-row-gap: 1.5rem;
+}
+
+.trg {
+    margin-top: -10px;
+}
+
+.con-p {
+    font-weight: 600;
+}
+
+.con-p2 {
+    font-weight: 600;
+    margin-top: -10px;
+}
+
+.bg-contact {
+    background-image: url('./Image/Vector\ 5.png');
+    background-repeat: no-repeat;
+    background-position: 50% -240px;
+    background-size: 50%;
+}
+
+.contat-from {
+    margin-top: 10rem;
+    padding-bottom: 5rem;
+}
+
+.from {
+    width: 50%;
+    padding: 2rem 3rem;
+}
+
+.from-input {
+    width: 100%;
+    height: 45px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #FAFAFA;
+    border: 1px solid #EAEAEA;
+}
+
+.sub-btn {
+    background: #3B4FE4;
+    color: #ffff;
+    font-size: 1.3rem;
+    font-weight: 600;
+    padding: 10px 30px 10px 30px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Contact Media quire ////////////////////////////////////// */
+
+
+/* For phone ///////////////////////////////////////////////////////// */
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .c-card-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-column-gap: 4rem;
+        grid-row-gap: 1.5rem;
+    }
+
+    .from {
+        width: 100%;
+        padding: 2rem 3rem;
+    }
+
+    .sub-btn {
+        background: #3B4FE4;
+        color: #ffff;
+        font-size: 0.9rem;
+        font-weight: 600;
+        padding: 6px 20px 6px 20px;
+        border: none;
+        border-radius: 5px;
+    }
+}
+
+
+
+
+
+
+/* For tablets/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+
+
+    .c-card-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 2rem;
+        grid-row-gap: 1.5rem;
+    }
+
+
+    .from {
+        width: 100%;
+        padding: 2rem 3rem;
+    }
+
+
+}
+
+
+
+
+
+
+/* For small screen laptop///////////////////////////////////////////////////////////////////////// */
+@media only screen and (min-width: 789px) and (max-width: 1024px) {
+
+    .c-card-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-column-gap: 2rem;
+        grid-row-gap: 1.5rem;
+    }
+
+
+    
+    .from {
+        width: 100%;
+        padding: 2rem 3rem;
+    }
+
+}
